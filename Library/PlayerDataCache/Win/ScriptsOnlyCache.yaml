@@ -38,11 +38,11 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 13116}
+      Script: {instanceID: 9678}
     - Class: 114
-      Script: {instanceID: 13616}
+      Script: {instanceID: 10596}
     - Class: 114
-      Script: {instanceID: 17634}
+      Script: {instanceID: 11198}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -60,6 +60,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc7148190d1f7ef13deafef1b462308
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ButtonUI
   - hash:
       serializedVersion: 2
       Hash: 3c08375166df118bd1801438fc36b92f
@@ -272,6 +278,12 @@ ScriptsOnlyBuild:
     className: RemoteTestResultSender
   - hash:
       serializedVersion: 2
+      Hash: 174e0e203edcf67767352426a82d9b1d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MemoryCard
+  - hash:
+      serializedVersion: 2
       Hash: 4fd8bf02e3089425d3502e26c44ba31a
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -366,6 +378,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
     className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 45b912df7a56a2980f2c743723e73af7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneController
   - hash:
       serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
@@ -468,25 +486,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 174e0e203edcf67767352426a82d9b1d
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: MemoryCard
-  - hash:
-      serializedVersion: 2
-      Hash: 45b912df7a56a2980f2c743723e73af7
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SceneController
-  - hash:
-      serializedVersion: 2
-      Hash: 4bc7148190d1f7ef13deafef1b462308
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ButtonUI
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/camdo/Desktop/Cards.exe
+  playerPath: C:/Users/Marin/Desktop/CARDS.exe
